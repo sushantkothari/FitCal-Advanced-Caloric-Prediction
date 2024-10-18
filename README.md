@@ -16,11 +16,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/caloric-prediction.git
+    git clone https://github.com/sushantkothari/FitCal-Advanced-Caloric-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd caloric-prediction
+    cd FitCal-Advanced-Caloric-Prediction
     ```
 
 ## Usage
