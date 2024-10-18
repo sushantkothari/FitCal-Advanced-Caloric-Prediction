@@ -31,7 +31,7 @@ To run the caloric prediction model, use the provided Jupyter notebook:
     ```bash
     jupyter notebook
     ```
-2. Open the `Caloric_Prediction.ipynb` notebook and run the cells to train and evaluate the models.
+2. Open the `Advanced_caloric_prediction_ipynb.ipynb` notebook and run the cells to train and evaluate the models.
 
 ## Workflow
 
@@ -56,15 +56,6 @@ The concept behind the **Caloric Prediction Model** is to provide a reliable and
 2. **Model Evaluation**: Models are evaluated using various metrics such as RMSE, MAE, and R² score.
 3. **Data Preprocessing**: Handling missing values, normalization, and scaling to ensure data consistency and accuracy.
 4. **Hyperparameter Tuning**: Optimizing model parameters using cross-validation.
-
-## Models
-
-The following machine learning models are implemented in this project:
-- Random Forest Regressor
-- Gradient Boosting Regressor
-- Support Vector Machine (SVM)
-- XGBoost
-- K-Nearest Neighbors (KNN)
 
 ## Evaluation Metrics
 
